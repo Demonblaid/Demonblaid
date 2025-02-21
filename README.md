@@ -1,6 +1,10 @@
 ## I am an aspiring Developer 👋
 
-📖Currently book learning python with "Hello World! 3rd edition" Progress:35%
+📖Currently book learning python with "Hello World! 3rd edition" Progress:🔵⚫⚫35%
+🎮Long term goal would be to develop an interesting yet simple game.
+💻Hoping to achieve some position as a programmer or IT field or both.
+
+Always looking for a good recommendation for industry related books. Beginner to expert. 
 <!--
 **Demonblaid/Demonblaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
