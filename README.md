@@ -1,11 +1,12 @@
-## Hi there 👋
+## I am an aspiring Developer 👋
 
+📖Currently book learning python with "Hello World! 3rd edition" Progress::large_blue_circle::black_circle::black_circle: 35%
 <!--
 **Demonblaid/Demonblaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Learning 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
