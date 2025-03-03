@@ -1,6 +1,6 @@
 ## I am an aspiring Developer 👋
 
-📖Currently book learning python with "Hello World! 3rd edition" Progress:🔵⚫⚫35% \
+📖Currently book learning python with "Hello World! 3rd edition" Progress:🔵⚫⚫42% \
 🎮Long term goal would be to develop an interesting yet simple game.\
 💻Hoping to achieve some position as a programmer or IT field or both.
 
